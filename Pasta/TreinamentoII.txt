@@ -1,1 +1,3 @@
 Inserindo dados e praticando o push
+
+novas informações adicionas neste arquivo para pratica do git
