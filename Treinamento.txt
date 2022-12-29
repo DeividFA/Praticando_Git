@@ -1,3 +1,5 @@
 Aprendendo a utilizar o Git
 
 realizando dupla alteração e de arquivos dentro do git
+
+mais uma alteração dentro do arquivo para posteriomente  retirar este commit
